@@ -1,12 +1,12 @@
-# MetaCoinTestWorkshop
+# PetShopTestWorkshop
 
 Ethereum Tests with Truffle Framework
 
-# Requirements
+## Requirements
 
 You need to have [Node](https://nodejs.org/en/download/package-manager/) installed.
 
-# Installation
+## Installation
 
 For the installation you can just git clone the repo and install truffle globally
 
