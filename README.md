@@ -4,7 +4,7 @@ Ethereum Tests with Truffle Framework
 
 # Requirements
 
-You need to have Node installed.
+You need to have [Node](https://nodejs.org/en/download/package-manager/) installed.
 
 # Installation
 
