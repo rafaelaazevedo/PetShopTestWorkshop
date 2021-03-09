@@ -90,7 +90,7 @@ App = {
             $(".panel-pet")
               .eq(i)
               .find("button")
-              .text("Success")
+              .text("Adopted 🎉")
               .attr("disabled", true);
           }
         }
