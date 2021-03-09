@@ -24,7 +24,7 @@ Install [Ganache](https://www.trufflesuite.com/ganache) for your Local Ethereum 
 
 More details about the installation process can be found on [AzevedoRafaela](https://azevedorafaela.wordpress.com/blockchain-test-workshop-with-truffle)
 
-## Run website locally
+## Run local website
 
 ```
 npm run dev
