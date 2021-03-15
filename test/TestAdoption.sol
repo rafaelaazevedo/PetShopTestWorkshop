@@ -42,7 +42,7 @@ contract TestAdoption {
         );
     }
 
-    // Testing retrieval of all pet owners
+    // Testing retrieval of pet owner storing getAdopters in memory
     function testGetAdopterAddressByPetIdInArray() public {
         // Store adopters in memory rather than contract's storage
         address[16] memory adopters = adoption.getAdopters();
